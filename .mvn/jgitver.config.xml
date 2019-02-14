@@ -7,6 +7,6 @@
     <useDirty>false</useDirty>
     <useGitCommitId>false</useGitCommitId>
 
-    <skipPomUpdate>true</skipPomUpdate>
+    <!--<skipPomUpdate>true</skipPomUpdate>-->
 
 </configuration>
